@@ -15,3 +15,4 @@ http://www.pythonchallenge.com/pc/def/ocr.html
 
 ## lvl 3
 http://www.pythonchallenge.com/pc/def/equality.html
+=> http://www.pythonchallenge.com/pc/def/linkedlist.html
