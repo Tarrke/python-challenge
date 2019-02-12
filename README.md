@@ -11,4 +11,7 @@ http://www.pythonchallenge.com/pc/def/map.html
 
 ## lvl 2
 http://www.pythonchallenge.com/pc/def/ocr.html
-=> 
+=> http://www.pythonchallenge.com/pc/def/equality.html
+
+## lvl 3
+http://www.pythonchallenge.com/pc/def/equality.html
