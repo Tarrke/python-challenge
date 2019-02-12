@@ -7,4 +7,8 @@ http://www.pythonchallenge.com/pc/def/0.html
 
 ## lvl 1
 http://www.pythonchallenge.com/pc/def/map.html
+=> http://www.pythonchallenge.com/pc/def/ocr.html
+
+## lvl 2
+http://www.pythonchallenge.com/pc/def/ocr.html
 => 
