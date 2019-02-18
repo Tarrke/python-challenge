@@ -27,3 +27,5 @@ http://www.pythonchallenge.com/pc/def/peak.html
 
 ## lvl 6
 http://www.pythonchallenge.com/pc/def/channel.html
+=> http://www.pythonchallenge.com/pc/def/hockey.html
+=> http://www.pythonchallenge.com/pc/def/oxygen.html
