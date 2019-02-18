@@ -29,3 +29,11 @@ http://www.pythonchallenge.com/pc/def/peak.html
 http://www.pythonchallenge.com/pc/def/channel.html
 => http://www.pythonchallenge.com/pc/def/hockey.html
 => http://www.pythonchallenge.com/pc/def/oxygen.html
+
+## lvl 7
+http://www.pythonchallenge.com/pc/def/oxygen.html
+=> http://www.pythonchallenge.com/pc/def/integrity.html
+
+## lvl 8
+http://www.pythonchallenge.com/pc/def/integrity.html
+=>
