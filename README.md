@@ -36,4 +36,7 @@ http://www.pythonchallenge.com/pc/def/oxygen.html
 
 ## lvl 8
 http://www.pythonchallenge.com/pc/def/integrity.html
-=>
+=> http://www.pythonchallenge.com/pc/return/good.html
+
+## lvl 9
+http://www.pythonchallenge.com/pc/return/good.html
