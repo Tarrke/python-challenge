@@ -40,3 +40,8 @@ http://www.pythonchallenge.com/pc/def/integrity.html
 
 ## lvl 9
 http://www.pythonchallenge.com/pc/return/good.html
+=> http://www.pythonchallenge.com/pc/return/bull.html
+
+## lvl 10
+http://www.pythonchallenge.com/pc/return/good.html
+=>
