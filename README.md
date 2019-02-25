@@ -48,4 +48,8 @@ http://www.pythonchallenge.com/pc/return/good.html
 
 ## lvl 11
 http://www.pythonchallenge.com/pc/return/5808.html
-=> 
+=> http://www.pythonchallenge.com/pc/return/evil.html
+
+## lvl 12
+http://www.pythonchallenge.com/pc/return/evil.html
+=>

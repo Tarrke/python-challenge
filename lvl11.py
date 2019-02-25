@@ -1,16 +1,20 @@
 from PIL import Image
-from urllib.request import urlopen
-from urllib.parse import urlencode, quote_plus
+import urllib.request
 import os
 from io import BytesIO
+import base64
 
 username = 'huge'
 password = 'file'
-values = { 'username': username,'password': password }
-data = urlencode(values, quote_via=quote_plus)
 
-response = urlopen("http://www.pythonchallenge.com/pc/return/cave.jpg", data=data)
-img = Image.open(BytesIO(response.content))
+req = urllib.request.Request("http://www.pythonchallenge.com/pc/return/cave.jpg")
+
+credentials = ('%s:%s' % (username, password))
+encoded_credentials = base64.b64encode(credentials.encode('ascii'))
+req.add_header('Authorization', 'Basic %s' % encoded_credentials.decode("ascii"))
+response = urllib.request.urlopen(req)
+
+img = Image.open(BytesIO(response.read()))
 
 (w, h) = img.size
 
@@ -24,5 +28,5 @@ for i in range(w):
             odd.putpixel((i // 2, j // 2), p)
         else:
             even.putpixel((i // 2, j // 2), p)
-even.save('even.jpg')
-odd.save('odd.jpg')
+even.save('temp/even.jpg')
+odd.save('temp/odd.jpg')
